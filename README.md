@@ -5,10 +5,6 @@ and Pay on Delivery payment options. The platform includes product variants, dyn
 
 ![Main Dashboard](docs/images/dashboard.png)
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/django-ecommerce?style=social)](https://github.com/yourusername/django-ecommerce/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/django-ecommerce?style=social)](https://github.com/yourusername/django-ecommerce/network/members)
-[![GitHub Follow](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-
 ## ✨ Features
 
 ### Products & Catalog
@@ -200,20 +196,3 @@ If you like this project, please give it a ⭐️ and share it with your friends
 ### Checkout Process
 
 ![Checkout](docs/images/checkout.png)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- Website: [joseph-indieka.com](https://joseph-ke-portfolio.vercel.app/)
-- Email: <indiekaj@gmail.com>
-- LinkedIn: [Joseph Indieka](https://linkedin.com/in/yourusername)
-- Twitter: [@Joseph_Indieka](https://twitter.com/Joseph_Indieka)
-
----
-
-Made with ❤️ by [Joseph Indieka](https://github.com/indieka900)
-
-Don't forget to ⭐ this repo and follow for more!
