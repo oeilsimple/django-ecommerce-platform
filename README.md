@@ -154,7 +154,7 @@ BASE_URL = 'https://sandbox.safaricom.co.ke'
 - **Backend:** Django 4.2+
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** PostgreSQL
-- **Payment:** PayPal API, M-PESA API
+- **Payment:** PayPal API, M-PESA API, Stripe API
 - **Cache:** Redis
 
 ## 📊 Database Schema
