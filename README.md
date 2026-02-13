@@ -51,7 +51,7 @@ and Pay on Delivery payment options. The platform includes product variants, dyn
 1. Clone the repository
 
 ```bash
-git clone https://github.com/indieka900/dj_ecommerce.git/
+git clone https://github.com/oeilsimple/dj_ecommerce.git/
 cd dj_ecommerce
 ```
 
@@ -170,14 +170,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## ⭐ Support
-
-If you like this project, please give it a ⭐️ and share it with your friends! You can also:
-
-- [Fork this repository](https://github.com/indieka900/dj_ecommerce/fork)
-- [Follow me on GitHub](https://github.com/indieka900)
-- [Connect on LinkedIn](https://linkedin.com/in/joseph-indieka)
 
 ## 📸 Screenshots
 
